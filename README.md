@@ -10,3 +10,5 @@ You can run this app by follow these step:
 2. `cd` to the repo
 3. Give the executable script permission to run by run command `chmod +x run.sh`
 4. Run command `./run.sh`
+
+Visit online website here: https://lamkimphu258.github.io/to-do-app/
