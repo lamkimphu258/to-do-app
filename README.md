@@ -1,14 +1,13 @@
 # To do app
-I write this to do app use html, vanilla javascript, bootstrap and font awesome. Hope you enjoy it.
+As you can see, in this app you can type a name of your task and add it and you see your task below. You also can search for the task you need. At the right of each task, a minus icon is used to delete that task. A clear task button will help you to clear all task you have once.
 
-![](homepage.png)
+![](homepage.png) 
 
-As you can see, in this app you can type a name of your task and add it and you see your task below. You also can search for the task you need. At the right of each task, a minus icon is used to delete that task. A clear task button will help you to clear all task you have once. 
+# How To Run
+1. `git clone https://github.com/lamkimphu258/to-do-app`
+2. `cd to-do-app`
+3. `chmod +x run.sh`
+4. `./run.sh`
 
-You can run this app by follow these step:
-1. Clone the repo
-2. `cd` to the repo
-3. Give the executable script permission to run by run command `chmod +x run.sh`
-4. Run command `./run.sh`
-
-Visit online website here: https://lamkimphu258.github.io/to-do-app/
+# Online Website
+https://lamkimphu258.github.io/to-do-app/
